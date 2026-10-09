@@ -1,4 +1,4 @@
-# Olá! Eu sou Gabriel Rocha Santos 👋
+# Sou Gabriel Rocha Santos 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UniÍtalo
 💻 Técnico em Tecnologia pelo SENAC
