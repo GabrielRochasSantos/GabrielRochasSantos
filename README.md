@@ -21,12 +21,6 @@ Busco aprimorar minhas habilidades e desenvolver projetos que transformem ideias
 * **Banco de dados:** MySQL
 * **Ferramentas:** Git, GitHub e VS Code
 
-## 🚀 Projetos
-
-* 📱 **Aplicações mobile:** estudos e projetos com React Native.
-* 🗺️ **Waze acadêmico:** projeto universitário com Java, JavaScript, MySQL, HTML e CSS.
-* 🧮 **Calculadora Web:** aplicação desenvolvida com Python e Flask.
-* 🏢 **docRH:** protótipo de sistema para processos de RH, com autenticação e recuperação de acesso.
 
 ## 📚 Atualmente estudando
 
