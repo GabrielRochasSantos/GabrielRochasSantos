@@ -1,38 +1,32 @@
-# Sou Gabriel Rocha Santos 👋
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na UniÍtalo
-💻 Técnico em Tecnologia pelo SENAC
-🚀 Desenvolvedor em constante evolução
+# Hi i'm Gabriel Rocha 👋
+🎓 Systems Analysis and Development student at UniÍtalo  
+💻 Software Development Technician — SENAC  
+🚀 Constantly evolving developer
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na UniÍtalo e tenho formação técnica pelo SENAC. Tenho interesse em desenvolvimento de software, aplicações mobile, sistemas web e segurança da informação.
+I’m a Systems Analysis and Development student with a technical background in software development. I’m interested in web and mobile applications, backend development, and cybersecurity.
 
-Busco aprimorar minhas habilidades e desenvolver projetos que transformem ideias em soluções práticas.
+## 🛠️ Technologies
 
-## 🛠️ Tecnologias e ferramentas
+- **Languages:** Java, JavaScript, Python, SQL
+- **Web:** HTML, CSS
+- **Mobile:** React Native
+- **Backend:** Java, Spring Boot
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code
 
-* **Linguagens:** JavaScript, Python, Java e SQL
-* **Desenvolvimento web:** HTML e CSS
-* **Desenvolvimento mobile:** React Native
-* **Backend:** Java e Spring Boot
-* **Banco de dados:** MySQL
-* **Ferramentas:** Git, GitHub e VS Code
+## 📚 Currently Learning
 
+React Native, backend development, SQL, and software engineering best practices.
 
-## 📚 Atualmente estudando
+## 📫 Contact
 
-* Desenvolvimento mobile com React Native
-* Java e desenvolvimento backend
-* Banco de dados SQL
-* Boas práticas de desenvolvimento de software
-
-## 📫 Contato
+Feel free to connect with me!
 
 💻 **GitHub:** [GabrielRochasSantos](https://github.com/GabrielRochasSantos)
 
 ---
 
-⭐ *Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos.*
